@@ -80,7 +80,7 @@ h2{
     margin-bottom: 8px;
 }
 h2 span{
-    font-size: 20px;
+    font-size: 24px;
     color: #A00404;
     margin-left: 16px;
 }
@@ -130,6 +130,9 @@ h2 span{
 .contact a{
     color: white;
     text-decoration: none;
+}
+.contact a:hover{
+    color: #96A9C4;
 }
 .contactIcon li{
     display: inline-block;
