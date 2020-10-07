@@ -58,7 +58,7 @@ img{
 
 .container{
     width: 1920px;
-    padding-top: 47px;
+    margin: 0 auto;
 }
 .header, .profile, .education, .workExperience, .wrap{
     width: 1200px;
@@ -68,6 +68,7 @@ h1{
     font-size: 80px;
     line-height: 94px;
     border-bottom: 2px solid #000;
+    padding-top: 47px;
     padding-bottom: 17px;
 }
 h1, .header img{
