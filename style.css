@@ -56,12 +56,8 @@ img{
 
 /* customerization */
 
-.container{
-    width: 1920px;
-    margin: 0 auto;
-}
 .header, .profile, .education, .workExperience, .wrap{
-    width: 1200px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 h1{
